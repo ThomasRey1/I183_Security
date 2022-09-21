@@ -1,0 +1,1 @@
+etant donné que j'ai déjà sécur les entrées du login avec les htmlspecialchars, on change rien

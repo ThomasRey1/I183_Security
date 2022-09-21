@@ -1,0 +1,2 @@
+On peut filtrer les ' et les " comme j'ai fait dans les images
+ou utiliser des bind mais dans notre cas il faudrait changer tout le code
