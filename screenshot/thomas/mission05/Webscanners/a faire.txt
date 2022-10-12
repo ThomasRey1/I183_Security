@@ -1,2 +1,0 @@
-1. Indiquer les outils que vous avez utilisé pour faire les vérifications
-2. Mettre à jour les éléments qui auraient été patché

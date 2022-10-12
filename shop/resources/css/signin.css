@@ -1,0 +1,95 @@
+.container {
+    background-color: #eeeeee;
+    display: table;
+    height: 100%;
+    left: 0;
+    min-height: 100%;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.loginContainer {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.form-signin {
+    max-width: 310px;
+    padding: 15px;
+    margin: 20px auto;
+}
+
+.form-signin .form-control {
+    position: relative;
+    height: auto;
+    padding-left: 35px;
+    font-size: 16px;
+    display: inline;
+    border-radius: 0;
+    margin-bottom: 10px;
+}
+
+.form-control:focus {
+    border-color: #e05f03;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(224, 95, 3, 0.6);
+    outline: 0 none;
+}
+
+.loginBox {
+    background-color: #fff;
+    margin: 0 auto;
+    max-width: 360px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1)
+}
+
+.loginBoxHeader {
+    border-bottom: 2px solid #e05f03;
+}
+
+h3.loginHeading {
+    padding: 0 0 5px 20px;
+    font-variant: small-caps;
+}
+
+.loginBoxFooter {
+    border-top: 1px solid #e05f03;
+}
+
+.loginBoxFooter p {
+    font-size: 74%;
+    font-style: italic;
+    padding: 3px;
+    text-align: right;
+    margin-right: 5px;
+}
+
+.inputWrapper {
+    position: relative;
+}
+
+.iconLogin {
+    position: absolute;
+    z-index: 10;
+    left: 10px;
+    top: 0;
+}
+
+.btn {
+    border-radius: 0;
+    background: #e05f03;
+    border-color: #e05f03;
+    color: #fff;
+}
+
+a, a:active, a:focus, a:hover {
+    color: #e05f03;
+}
+
+.btn.active, .btn.focus, .btn:active, .btn:focus, .btn:hover {
+    background-color: #CD5702;
+    border-color: #CD5702;
+    color: #fff;
+}
