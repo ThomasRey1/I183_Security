@@ -1,0 +1,2 @@
+index.php?controller=shop&action=detail&id=3-4
+renvoie des erreurs mais pas d'erreur SQL comme il dit donc faut trouver moyens de réparer erreur

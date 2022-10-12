@@ -1,0 +1,4 @@
+1. Outils disponibles sur le marché pour ajouter des signatures dans des pixels invisibles : 
+2. Recommandation d'un outil pour traiter facilement toutes les images : Photoshop, GIMP, Krita, Canvas photo editor, PIXLR, Adobe Lightroom
+	1. Choix après avoir fait des tests avec des versions d'évaluation ou consulté la documentation : Krita, gratuit open source, aussi complet que photoshop
+3. Procédure complète pour protéger les images : filigrane, signature pixel invisible, 
